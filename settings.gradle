@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='SOAP_MAPAS_ENVIAR_PRUEBA'
